@@ -17,7 +17,7 @@ gem 'simple_form'
 gem "figaro"
 gem "fog-aws"
 gem "mini_magick"
-
+gem 'ranked-model'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 # Use CoffeeScript for .coffee assets and views
